@@ -11,7 +11,7 @@ Welcome to Dinohead's Cloud Native Application 101 training. We are going to foc
   - [Docker Engine](engine/index.md)
       - [Installation and Configuration](Docker/engine/index.md)
       - [Docker Admin Commands](Docker/engine/index.md)
-  - [Docker Compose](#docker-compose)
+  - [Docker Compose](Docker/compose/index.md)
       - [Installation and Configuration](Docker/compose/index.md)
       - [Hello World](Docker/compose/gettingstarted.md)
       - [Commands](Docker/compose/gettingstarted.md)
